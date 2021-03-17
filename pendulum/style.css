@@ -1,0 +1,27 @@
+
+BODY{
+    background-color: #FFFFFF
+}
+
+.pendulum {
+    stroke: rgb(0,0,0);
+    stroke-width: 3;
+}
+
+#firstname, #lastname {
+    position: absolute;
+    width: 130px;
+    height: 25px;
+}
+
+.collapsible {
+    background-color: #FFF;
+    cursor: pointer;
+    width: 250px;
+    height: 40px;
+    border: 1;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+    border-radius: 15px;
+}
